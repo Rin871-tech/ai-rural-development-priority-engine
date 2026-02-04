@@ -1,0 +1,44 @@
+district,taluka,problem_type,severity_score,population_affected,economic_impact_score,health_environment_risk,delay_cost_months,linked_scheme,scheme_coverage_gap_pct
+
+Yavatmal,,Crop Loss,9,180000,9,6,4,PMFBY,55
+Amravati,,Farmer Distress,8,120000,8,7,6,PM-KISAN,40
+Buldhana,,Crop Loss,8,140000,8,5,4,PMFBY,48
+Akola,,Farmer Distress,7,90000,7,6,5,PM-KISAN,35
+Washim,,Crop Loss,8,70000,7,5,4,PMFBY,42
+
+Beed,,Drinking Water Contamination,9,160000,6,9,3,Jal Jeevan Mission,60
+Nanded,,Drinking Water Contamination,8,150000,6,8,3,Jal Jeevan Mission,52
+Jalna,,Primary Healthcare Access,7,130000,6,7,5,Ayushman Bharat,38
+Parbhani,,Healthcare Infrastructure,7,110000,6,7,5,Ayushman Bharat,35
+
+Gadchiroli,,Digital Connectivity Gap,8,90000,7,4,6,BharatNet,65
+Chandrapur,,Rural Roads Damage,7,100000,7,4,5,PMGSY,45
+Wardha,,Education Infrastructure Gap,6,85000,6,3,6,Samagra Shiksha,30
+
+Solapur,,Flood-Related Crop Damage,8,170000,8,5,4,PMFBY,50
+Sangli,,Flood Infrastructure Damage,7,140000,7,4,4,PMGSY,40
+
+Nashik,,Drinking Water Scarcity,7,130000,6,7,3,Jal Jeevan Mission,35
+Palghar,,Tribal Healthcare Access,8,90000,6,7,6,Ayushman Bharat,45
+Raigad,,Rural Road Connectivity,6,80000,6,3,5,PMGSY,28
+
+
+Kolhapur,Karvir,Drinking Water Scarcity,8,42000,6,8,3,Jal Jeevan Mission,40
+Kolhapur,Karvir,Urban Flooding,7,38000,7,6,4,PMGSY,35
+Kolhapur,Karvir,Primary Healthcare Access,7,36000,6,7,5,Ayushman Bharat,30
+
+Kolhapur,Hatkanangale,Flood Impact on Livelihoods,7,30000,7,5,4,PMFBY,38
+Kolhapur,Hatkanangale,Agricultural Income Loss,8,34000,8,4,5,PM-KISAN,42
+Kolhapur,Hatkanangale,Rural Road Damage,7,28000,7,3,4,PMGSY,36
+
+Kolhapur,Shirol,Drinking Water Contamination,8,26000,6,8,3,Jal Jeevan Mission,45
+Kolhapur,Shirol,Healthcare Infrastructure Gap,7,24000,6,7,5,Ayushman Bharat,32
+Kolhapur,Shirol,Flood Damage to Crops,8,29000,8,5,4,PMFBY,40
+
+Kolhapur,Panhala,Education Infrastructure Gap,6,18000,5,3,6,Samagra Shiksha,28
+Kolhapur,Panhala,Electricity Supply Issues,6,20000,6,3,5,DDUGJY,30
+Kolhapur,Panhala,Drinking Water Scarcity,7,22000,6,7,3,Jal Jeevan Mission,34
+
+Kolhapur,Radhanagari,Forest-Adjacent Livelihood Risk,8,15000,7,6,6,NRLM,50
+Kolhapur,Radhanagari,Healthcare Accessibility,7,17000,6,7,5,Ayushman Bharat,42
+Kolhapur,Radhanagari,Rural Road Connectivity,7,16000,6,3,5,PMGSY,37
